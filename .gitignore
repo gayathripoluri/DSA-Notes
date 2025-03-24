@@ -1,0 +1,15 @@
+# Ignore compiled files
+*.out
+*.o
+*.a
+*.so
+*.exe
+*.obj
+
+# Ignore temporary files from IDEs or editors
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
