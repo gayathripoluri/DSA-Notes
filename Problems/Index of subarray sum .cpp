@@ -1,4 +1,6 @@
-problem link:https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&category=Arrays&sortBy=submissions
+/*Concept:https://www.geeksforgeeks.org/window-sliding-technique/ */
+
+/*problem link:https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&category=Arrays&sortBy=submissions*/
 
 
 class Solution {
